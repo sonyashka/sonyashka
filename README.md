@@ -29,7 +29,7 @@ Other technologies:
 
 Softs: team oriented, mem advanced, responsive to assignments.
 
-![cat_meme](/sonyashka/src/cat_meme.jpg)
+![cat_meme](/src/cat_meme.jpg)
 
 ## Working expirience
 
