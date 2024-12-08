@@ -13,13 +13,23 @@ I'm Sofiya Paraskun, working in Moscow as Middle Data Engineer
 
 ## Skills
 
-Databases: ![image_pg]({https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}) ![image_pl]({https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black}) ![image_ora]({https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white}) 
+Databases: 
+<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 
-Programming languages: ![image_py]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}) ![image_c]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
+Programming languages:  
+<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-Other technologies: ![image_docker]({https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white}) ![image_k8s]({https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white}) ![image_af]({https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white})
+Other technologies: 
+<img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
 
 Softs: team oriented, mem advanced, responsive to assignments.
+
+![cat_meme](/sonyashka/src/cat_meme.jpg)
 
 ## Working expirience
 
